@@ -1,0 +1,58 @@
+Tic-Tac-Toe Game 11 started at 2025-05-06 23:22:37.762823
+
+Move 1: 1 placed at (0, 1)
+Board state:
+  | X |  
+  |   |  
+  |   |  
+---------
+Move 2: d placed at (0, 0)
+Board state:
+O | X |  
+  |   |  
+  |   |  
+---------
+Move 3: 1 placed at (0, 2)
+Board state:
+O | X | X
+  |   |  
+  |   |  
+---------
+Move 4: 1 placed at (1, 1)
+Board state:
+O | X | X
+  | X |  
+  |   |  
+---------
+Move 5: d placed at (2, 1)
+Board state:
+O | X | X
+  | X |  
+  | O |  
+---------
+Move 6: 1 placed at (2, 2)
+Board state:
+O | X | X
+  | X |  
+  | O | X
+---------
+Move 7: d placed at (2, 0)
+Board state:
+O | X | X
+  | X |  
+O | O | X
+---------
+Move 8: 1 placed at (1, 0)
+Board state:
+O | X | X
+X | X |  
+O | O | X
+---------
+Move 9: d placed at (1, 2)
+Board state:
+O | X | X
+X | X | O
+O | O | X
+---------
+
+ Game ended in a draw.
